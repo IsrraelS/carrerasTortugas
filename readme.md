@@ -1,3 +1,3 @@
 #CARRERAS DE TORTUGAS
 
-Ejercico que muestra como utilizar objetos de tipo turtle 
+Ejercicio que muestra como utilizar objetos de tipo turtle haciendo una carrera de tortugas 
